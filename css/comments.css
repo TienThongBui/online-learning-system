@@ -1,0 +1,21 @@
+.comments {
+    box-shadow: 0 -1px 6px 1px rgba(0, 0, 0, 0.1);
+    background-color: #FFFFFF;
+    padding: 10px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+
+}
+
+.replies {
+    margin-left: 30px;
+    padding: 10px;
+}
+
+.replies .body {
+    /* background-color: aqua; */
+    border: 10px;
+    border-radius: 10px;
+    margin-bottom: 13px;
+    padding: 10px;
+}

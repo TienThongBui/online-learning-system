@@ -1,0 +1,35 @@
+.back{
+  margin: 20px 0px 0px 20px;
+  padding: auto;
+
+}
+h1{
+  margin-top: 50px;
+  text-align: center;
+}
+
+a{
+  text-decoration: none;
+}
+
+.login {
+    margin: 30px 0px;
+    min-height: min-content;
+  }
+  
+  /* .bg-image {
+    background-image: url('https://source.unsplash.com/WEQbe2jBg40/600x1200');
+    background-size: cover;
+    background-position: center;
+  } */
+  
+  .login-heading {
+    font-weight: 300;
+  }
+  
+  .btn-login {
+    font-size: 0.9rem;
+    letter-spacing: 0.05rem;
+    padding: 0.75rem 1rem;
+  }
+  

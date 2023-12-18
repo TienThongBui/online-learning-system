@@ -1,0 +1,48 @@
+.container {
+    border-radius: 15px;
+    justify-content: center;
+}
+
+.row {
+    margin: 10px 0px 10px 0px;
+    border: 10px;
+    border-radius: 10px;
+    justify-content: center;
+}
+
+a{
+    justify-content: center;
+    text-decoration: none;
+}
+
+button {
+    width: 100px;
+    height: 40px;
+    border: none;
+    outline: none;
+    background: #0091ffbf;
+    color: #fff;
+    font-size: 15px;
+    border-radius: 40px;
+    text-align: center;
+    box-shadow: 0 6px 20px -5px rgba(0, 0, 0, 0.4);
+    position: relative;
+    overflow: hidden;
+    cursor: pointer;
+}
+
+#correct {
+    background-color: aqua;
+}
+
+h1 {
+    text-align: center;
+}
+
+h5 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
